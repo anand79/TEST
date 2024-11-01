@@ -1,0 +1,6 @@
+@MDM.Server_HostAddress = http://localhost:5262
+
+GET {{MDM.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

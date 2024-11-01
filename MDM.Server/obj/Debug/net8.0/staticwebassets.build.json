@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "O7bRSJVQVKuWKRCEeLNpEdN0hzxRz1bQ4lTYK5o2sjE=",
+  "Source": "MDM.Server",
+  "BasePath": "_content/MDM.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Anand\\BTIG\\MDM\\mdm.client\\mdm.client.esproj",
+      "Version": 2,
+      "Source": "mdm.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
